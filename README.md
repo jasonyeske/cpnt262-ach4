@@ -38,6 +38,7 @@ Use addEventListener to make the page listen when that item changes
 - [Developer Mozilla Event.preventdefault](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
 - [Code Ahoy](https://codeahoy.com/javascript/2019/10/12/==-vs-===-in-javascript/#:~:text=The%20difference%20between%20%3D%3D%20and%20%3D%3D%3D%20is%20that%3A,same%20type%20before%20performing%20comparison.&text=%3D%3D%3D%20does%20not%20do%20any,the%20two%20variables%20being%20compared.)
 - [Developer Mozilla Htmlformelement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
+- [Javascropttutorial.net](https://www.javascripttutorial.net/javascript-dom/javascript-form/)
 
 
     
