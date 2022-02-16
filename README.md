@@ -5,9 +5,9 @@
 ### To Do: Create a form that uses an If/Else statement to visually change the page
 
 - Create a drop down menu
-    - Use <select>
-        - Use <option>
-- Wrap it in a form using <form>
+    - Use select
+        - Use option
+- Wrap it in a form using form
 
 - Create a paragraph tag with a unique id so I can use it in my js code
     - Leave empty so I can add text to it later
@@ -16,7 +16,7 @@
 - Use Queryselector to link my drop down list to the javascript page
     - Making it a DOM
 
-<!--> Important to know, but ended up switching my code because I forgot to add the button, so the code was switching when I selected something from the dropdown, not when I hit submit
+<!-- Important to know, but ended up switching my code because I forgot to add the button, so the code was switching when I selected something from the dropdown, not when I hit submit
 
 Use addEventListener to make the page listen when that item changes
     - Click does not work, as soon as I click on the dropdown menu it adds text
